@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+
+# PyVis temporary local assets
+lib/
+
+# Local Environment variables
+.env
+
+# Streamlit local credentials
+.streamlit/
